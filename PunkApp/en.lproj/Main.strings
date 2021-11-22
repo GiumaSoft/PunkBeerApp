@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "REi-Lk-zXx"; */
+"REi-Lk-zXx.text" = "Brewers tips";
+
+/* Class = "UILabel"; text = "First brewed"; ObjectID = "TZk-eO-jxS"; */
+"TZk-eO-jxS.text" = "First brewed in";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cbN-P9-73B"; */
+"cbN-P9-73B.text" = "Food pairing";
